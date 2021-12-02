@@ -2,7 +2,7 @@
 Lista de livros excelentes sobre nossa área
 
 ### LIVROS :
-1. O Codificador Limpo
+1. [O Codificador Limpo](https://www.amazon.com.br/Codificador-Limpo-Bob-Martin/dp/8576086476)
 2. Clean Architecture
 3. Refatoração: Aperfeiçoando o Design de Códigos Existentes
 4. Código limpo
