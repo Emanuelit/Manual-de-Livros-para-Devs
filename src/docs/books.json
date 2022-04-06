@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "nome": "O Codificador Limpo"
+  },
+  {
+    "id": 2,
+    "nome": "Clean Architecture"
+  },
+  {
+    "id": 3,
+    "nome": "Refatoração: Aperfeiçoando o Design de Códigos Existentes"
+  },
+  {
+    "id": 4,
+    "nome": "Código limpo"
+
+  },
+  {
+    "id": 5,
+    "nome": "Pedro Domingos - O Algoritmo Mestre"
+  },
+  {
+    "id": 6,
+    "nome": "livro algoritmos para viver - brian christian e tom griffiths"
+  },
+  {
+    "id": 7,
+    "nome": "O Poder dos Quietos – Susan Cain"
+  },
+  {
+    "id": 8,
+    "nome": "Um Bate-papo Sobre T.I. – Ernesto Haberkon"
+  },
+  {
+    "id": 9,
+    "nome": "Engenharia de Software: Uma Abordagem Profissional – Roger S. Pressman"
+  },
+  {
+    "id": 10,
+    "nome": "O Verdadeiro Valor de TI – Richard Hunter e George Westerman"
+  },
+  {
+    "id": 11,
+    "nome": "Os 11 Segredos de Líderes de TI Altamente Influentes (“The 11 Secrets of Highly Influential IT Leaders”) – Marc J. Schiller"
+  },
+  {
+    "id": 12,
+    "nome": "Quem Disse que os Elefantes não Dançam?” (Louis V. Gerstner)"
+
+  },
+  {
+    "id": 13,
+    "nome": "A Startup Enxuta” (Eric Ries)"
+
+  },
+  {
+    "id": 14,
+    "nome": "Use a Cabeça! Programação, por David Griffiths & Paul Barry"
+
+  },
+  {
+    "id": 15,
+    "nome": "Redes, Guia Prático, de Carlos Morimoto"
+
+  }
+]
